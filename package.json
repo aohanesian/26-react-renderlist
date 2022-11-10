@@ -1,0 +1,25 @@
+{
+  "name": "26-react-renderlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aohanesian/26-react-renderlist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aohanesian/26-react-renderlist/issues"
+  },
+  "homepage": "https://github.com/aohanesian/26-react-renderlist#readme",
+  "dependencies": {
+    "@types/react": "^18.0.25",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}

@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+table {
+    width: fit-content;
+}
+
+tbody {
+    border-style: solid;
+    border-color: black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+.chosen {
+    color: green;
+    font-weight: bold;
+}
